@@ -22,7 +22,7 @@ html{
     z-index: 999;
     transition: all 0.3 ease;
 }
-.navbar .sticky{
+.navbar.sticky{
     background: #004AAD;
     padding: 15px 0;
 }
@@ -40,7 +40,7 @@ html{
     color: #004AAD;
     transition: all 0.3s ease;
 }
-.navbar .sticky .logo a span{
+.navbar.sticky .logo a span{
     color: #fff;
 }
 .navbar .menu li{
