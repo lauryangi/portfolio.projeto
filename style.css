@@ -129,9 +129,9 @@ html{
     transition: all 0.3s ease;
 }
 .scroll-up-btn.show{
-    opacity: 1;
-    pointer-events: auto;
     bottom: 30px;
+    opacity: 1;
+    pointer-events:auto;
 }
 /*  todos os codigos similares  */
 section{
